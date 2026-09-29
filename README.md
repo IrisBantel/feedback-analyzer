@@ -53,3 +53,7 @@ It could also summarize the most frequently mentioned topics so that users can g
 ## Acknowledgments
 
 This project was created as part of the Building AI course by the University of Helsinki and Reaktor.
+
+### Use of AI
+
+ChatGPT (OpenAI) was used to support brainstorming, structuring, and language formulation for this project. The project idea was selected and reviewed by the author, who is responsible for the final content.
